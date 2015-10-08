@@ -1,0 +1,2 @@
+# ftpbuckettest
+init
